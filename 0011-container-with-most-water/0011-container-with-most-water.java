@@ -7,11 +7,12 @@ class Solution {
 
         while(left <= right){
             int ans = Math.min(height[left], height[right]) * (right-left);
-            if(height[left] < height[right]) left++;
-            else right--;
             if(ans> maxAns){
                 maxAns = ans;
             }
+            if(height[left] < height[right]) left++;
+            else right--;
+            
         }
         return maxAns;
     }
