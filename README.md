@@ -64,4 +64,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
