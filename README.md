@@ -27,6 +27,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sorting
@@ -39,11 +40,13 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
