@@ -31,6 +31,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
@@ -46,6 +47,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
