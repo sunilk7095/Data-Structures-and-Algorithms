@@ -19,6 +19,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
@@ -115,4 +116,5 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
