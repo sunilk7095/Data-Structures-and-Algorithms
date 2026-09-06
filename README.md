@@ -12,6 +12,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -112,5 +113,6 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
