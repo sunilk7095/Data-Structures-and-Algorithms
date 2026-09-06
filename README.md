@@ -18,12 +18,14 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -87,4 +89,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
