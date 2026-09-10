@@ -39,6 +39,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3870-count-commas-in-range](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
@@ -130,4 +132,12 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
