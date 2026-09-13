@@ -16,6 +16,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
@@ -91,6 +92,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
