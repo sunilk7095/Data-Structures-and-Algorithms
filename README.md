@@ -49,6 +49,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -68,17 +69,20 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
