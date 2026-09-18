@@ -174,6 +174,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -195,4 +196,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
