@@ -10,6 +10,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
@@ -147,6 +148,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
