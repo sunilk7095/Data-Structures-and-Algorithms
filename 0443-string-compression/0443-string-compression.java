@@ -3,6 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int n = chars.length;
         int count=0;
+        
         for(int i =0; i < n; i++){
             count++;
             if(i == n-1 || chars[i] != chars[i+1] ){
