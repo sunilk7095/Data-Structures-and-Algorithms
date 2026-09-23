@@ -23,6 +23,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1207-unique-number-of-occurrences](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -127,6 +129,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -147,12 +150,14 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
 ## Tree
