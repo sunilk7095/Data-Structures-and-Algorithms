@@ -32,6 +32,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0836-rectangle-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
