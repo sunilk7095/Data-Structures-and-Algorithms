@@ -118,11 +118,13 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -216,4 +218,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
