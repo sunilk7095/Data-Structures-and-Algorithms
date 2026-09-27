@@ -126,6 +126,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -191,6 +192,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -225,4 +227,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
