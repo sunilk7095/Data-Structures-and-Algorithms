@@ -32,6 +32,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1991-find-the-middle-index-in-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -48,6 +49,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -123,11 +125,13 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0766-toeplitz-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1920-build-array-from-permutation) |
+| [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
