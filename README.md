@@ -56,6 +56,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
@@ -211,6 +212,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -247,6 +249,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
