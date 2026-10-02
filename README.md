@@ -10,6 +10,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
@@ -139,6 +141,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
