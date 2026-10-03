@@ -7,6 +7,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0766-toeplitz-matrix) |
@@ -136,6 +138,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1920-build-array-from-permutation) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
