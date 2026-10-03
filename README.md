@@ -59,6 +59,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
@@ -98,6 +99,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -218,6 +220,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -257,6 +260,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
