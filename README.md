@@ -218,6 +218,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -251,6 +252,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
