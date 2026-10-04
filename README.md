@@ -103,6 +103,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0005-longest-palindromic-substring](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -153,6 +154,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0002-add-two-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
@@ -281,4 +283,8 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
