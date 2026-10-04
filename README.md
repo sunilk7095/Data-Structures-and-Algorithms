@@ -150,6 +150,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
@@ -218,6 +219,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
@@ -252,6 +254,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Backtracking
