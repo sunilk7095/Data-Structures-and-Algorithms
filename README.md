@@ -67,6 +67,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0392-is-subsequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -237,6 +238,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -279,6 +281,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0022-generate-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
