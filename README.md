@@ -37,6 +37,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -54,6 +55,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1679-max-number-of-k-sum-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2352-equal-row-and-column-pairs](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -127,6 +129,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
