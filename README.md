@@ -17,6 +17,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
@@ -48,6 +49,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 | [0073-set-matrix-zeroes](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -211,6 +213,7 @@ Solutions to Data Structures and Algorithms problems with explanations.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilk7095/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
